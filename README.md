@@ -431,9 +431,56 @@ Use Tocbot to parse the title tags (h1~h6) in the content and insert the directo
 
 
 
+
+
+<a src="https://github.com/forxhunter/hexo-theme-ayer_space">Ayer_space</a> by <a  href="https://github.com/forxhunter/">foxhunter</a> is licensed under  <a rel="license" href="https://github.com/forxhunter/hexo-theme-ayer_space/blob/master/LICENSE">SATA-License</a>.
+
+The basic idea is, whenever using a project using SATA license, people shall star/like/+1 that project and thank the author. Just imagine Google stared your project and send you a thank-you letter because they used your project in github!
+<br>
+
+本项目采用<a rel="license" href="https://github.com/Shen-Yu/hexo-theme-ayer/blob/master/LICENSE">SATA</a>开源协议，在遵守MIT许可证的前提下，你应该给这个开源项目“点个赞”，比如github右上角的star，然后你应该感谢这个开源项目的作者，作者信息可以在许可证头部的版权声明部分找到。<br>
+
+下面是几条SATA作者推荐的感谢途径，也是SATA包含的内容：
+
+- 给你使用的开源项目的作者发个Email，和他交个朋友
+- 提出你在使用过程中发现的BUG或者提一些建设性的意见
+- 告诉你的朋友们这个开源项目碉堡了(博主: 就像我在宣传SATA)
+- 当然，你也可以只是在心里默默的感激，不用让全世界都知道
+
+```
+The Star And Thank Author License (SATA)
+
+Copyright © 2021 foxhunter(shield75@outlook.com)
+
+Project Url: https://github.com/forxhunter/hexo-theme-ayer_space
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software. 
+
+And wait, the most important, you shall star/+1/like the project(s) in project url 
+section above first, and then thank the author(s) in Copyright section. 
+
+Here are some suggested ways:
+
+ - Email the authors a thank-you letter, and make friends with him/her/them.
+ - Report bugs or issues.
+ - Tell friends what a wonderful project this is.
+ - And, sure, you can just express thanks in your mind without telling the world.
+```
+
 #### Original Licence
 
-```text
+many thanks to [shenyu](https://github.com/Shen-Yu/).
+
+```
+  
 The Star And Thank Author License (SATA)
 
 Copyright © 2019 Shen-Yu(shenyu@hotmail.com)

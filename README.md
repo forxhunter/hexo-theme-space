@@ -33,20 +33,24 @@
 
 ---
 
-:ocean: Ayer is a clean and elegant theme for Hexo, also fast, powerful and responsive. It contains many awesome features, It's perfect for your blog, "Ayer" means "water" in Malaysian and "yesterday" in Spanish. If you have any queries or advice during the process of using, Please contact me!  shenyu@hotmail.com
+:rocket: Ayer_space is a Hexo theme adpated from [Ayer](https://github.com/Shen-Yu/hexo-theme-ayer) by shinyu. It contains a lot of nice features and several nice improvements.
 
 <b>注：收藏本主题请点右上角Star，谢谢~~ </b>
 <b>如果你想给主题添砖加瓦，可以点右上角Fork，然后给此仓库提交PR</b>
 
-### [Preview 预览](https://shen-yu.gitee.io)
+### [Preview 预览](https://foxhuntervis.com/)
 
-### [中文说明](https://shen-yu.gitee.io/2019/ayer/)
+![Screenshot](screenshots/hexo_theme_space.png)
 
-### [国内镜像](https://gitee.com/shen-yu/hexo-theme-ayer)
+### [原版预览](https://shen-yu.gitee.io/2019/ayer/)
+
+
 
 ![Screenshot](screenshots/hexo-theme-ayer.png)
 
-## Install
+## Install Original Version
+
+Adpated version will be open soon!
 
 ### For hexo < 5.0
 
@@ -90,21 +94,21 @@ let me know if you have any questions.
 ``` yml
 # Menu-Sidebar
 menu:
-  Home: /
-  Archives: /archives
-  Categories: /categories
-  Tags: /tags
-  Gallery: http://shenyu-vip.lofter.com
-  Travel: /tags/旅行/
-  About: /2019/about
+  switch_lang: https://foxhuntervis.com/zh-CN
+  home: /
+  categories: /categories
+  research: /categories/research
+  leisure: /categories/leisure
+  codes: /categories/codes
+  aboutme: /about/aboutme.html
 
 # Subtitle and Typing animation
 # https://github.com/mattboldt/typed.js
 subtitle:
   enable: true
-  text: A clean and elegant theme
-  text2: It's perfect for your hexo blog
-  text3: Have fun!  #Supports up to three lines of text
+  text: The Game is On!
+  text2: Eadem mutata resurgo!
+  text3:   #Supports up to three lines of text
   startDelay: 0
   typeSpeed: 200
   loop: true
@@ -112,15 +116,15 @@ subtitle:
   showCursor: true
 
 # Favicon and sidebar logo
-favicon: /favicon.ico
-logo: /images/ayer-side.svg
+favicon: /pikachu.png
+logo: /images/pokeball-side.png
 
 # Cover Setting 
 # enable: [true|false]；path: [background-image]；logo: [cover-logo-image]
 cover:
   enable: true
-  path: /images/cover1.jpg  # there are some beautiful cover images in Ayer's directory: /source/images, choose your favorite image to replace it.
-  logo: /images/ayer.svg
+  path: /images/spacestation.jpg # there are some beautiful cover images in Ayer's directory: /source/images, choose your favorite image to replace it.
+  logo: /images/pokeball-side.png
 
 # ProgressBar  
 progressBar: true
@@ -128,8 +132,8 @@ progressBar: true
 # Boardcast
 broadcast:
   enable: true
-  type: 2 # 1：custom，2：hitokoto api(https://hitokoto.cn/)
-  text: a clean and elegant theme, fast and responsive. # only work in custom mode
+  type: 1 # 1：custom，2：hitokoto api(https://hitokoto.cn/)
+  text: Happy Chinese New Year! # only work in custom mode
 
 # Article Setting
 # (Use this to excerpt if article is too long：<!--more-->)
@@ -425,20 +429,25 @@ Use Tocbot to parse the title tags (h1~h6) in the content and insert the directo
 
 ## License
 
-<a src="https://github.com/Shen-Yu/hexo-theme-ayer">Ayer</a> by <a  href="https://github.com/Shen-Yu">Eric-Shen</a> is licensed under  <a rel="license" href="https://github.com/Shen-Yu/hexo-theme-ayer/blob/master/LICENSE">SATA-License</a>.
 
-The basic idea is, whenever using a project using SATA license, people shall star/like/+1 that project and thank the author. Just imagine Google stared your project and send you a thank-you letter because they used your project in github!
-<br>
 
-本项目采用<a rel="license" href="https://github.com/Shen-Yu/hexo-theme-ayer/blob/master/LICENSE">SATA</a>开源协议，在遵守MIT许可证的前提下，你应该给这个开源项目“点个赞”，比如github右上角的star，然后你应该感谢这个开源项目的作者，作者信息可以在许可证头部的版权声明部分找到。<br>
+#### Original Licence
 
-下面是几条SATA作者推荐的感谢途径，也是SATA包含的内容：
+```text
+The Star And Thank Author License (SATA)
 
-- 给你使用的开源项目的作者发个Email，和他交个朋友
-- 提出你在使用过程中发现的BUG或者提一些建设性的意见
-- 告诉你的朋友们这个开源项目碉堡了(博主: 就像我在宣传SATA)
-- 当然，你也可以只是在心里默默的感激，不用让全世界都知道
+Copyright © 2019 Shen-Yu(shenyu@hotmail.com)
 
-## Stargazers over time
+Project Url: https://github.com/Shen-Yu/hexo-theme-ayer
 
-[![Stargazers over time](https://starchart.cc/Shen-Yu/hexo-theme-ayer.svg)](https://starchart.cc/Shen-Yu/hexo-theme-ayer)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software. 
+```
+

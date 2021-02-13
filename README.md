@@ -1,4 +1,4 @@
-<p align="center"><a href="https://foxhuntervis.com/en/" target="_blank" rel="noopener noreferrer"><img width="100" src="logo.png" alt="ayer logo"></a></p>
+<p align="center"><a href="https://foxhuntervis.com/en/" target="_blank" rel="noopener noreferrer"><img width="100" src="source/images/pokeball-side.png" alt="ayer logo"></a></p>
 
 <h3 align="center">一个安静且优雅的 Hexo 主题</h3>
 

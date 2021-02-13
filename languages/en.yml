@@ -1,6 +1,11 @@
-menu:
-  home: Home
+switch_lang: 简体中文
 categories: Categories
+home: Home
+research: Findings
+leisure: Leisure
+codes: Codes
+aboutme: Aboutme
+
 search: Search
 tags: Tags
 tagcloud: Tag Cloud
@@ -16,7 +21,7 @@ newer: Newer
 older: Older
 share: Share
 powered_by: Powered by %s
-theme: Theme - %s
+#theme: Theme - %s
 rss_feed: RSS Feed
 category: Category
 tag: Tag
